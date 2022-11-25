@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 int i = 1;
-while (i<10000)
+while (i<100)
 {
     Console.WriteLine($"Hello, World! {i}" );
     i++;
